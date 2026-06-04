@@ -8,3 +8,4 @@ requests
 pandas
 google-generativeai
 matplotlib
+pytz>=2024.1
