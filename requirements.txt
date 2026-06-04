@@ -9,3 +9,4 @@ pandas
 google-generativeai
 matplotlib
 pytz>=2024.1
+streamlit-autorefresh
